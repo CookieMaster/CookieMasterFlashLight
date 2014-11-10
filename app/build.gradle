@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
+    compileSdkVersion 21
     buildToolsVersion "21.1.0"
     defaultConfig {
         applicationId "com.cookiemasterflashlight"
         minSdkVersion 7
-        targetSdkVersion 18
+        targetSdkVersion 21
         versionCode 1
         versionName "1.5"
     }
